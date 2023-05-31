@@ -66,3 +66,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 - The Bangle.js community for the open-source smartwatch that made this project possible.
 
+![Image 1](photos/img1.png)
+![Image 2](photos/img2.png)
+![Image 3](photos/img3.png)
+![Image 3](photos/img4.png)
